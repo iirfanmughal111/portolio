@@ -1,0 +1,19 @@
+/*
+Theme Name:   MuhammadIrfan
+Theme URI:    http://iirfanmughal111.thats.im/
+Description:  Muhammad Irfan Portfolio Child Theme
+Author:       Muhammad Irfan
+Author URI:   http://iirfanmughal111.thats.im/
+Template:     royal-elementor-kit
+Version:      1.0.0
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready,custom-child
+Text Domain:  MuhammadIrfanPortfolio
+*/
+
+body{
+  margin:0;
+  padding:0;
+
+}

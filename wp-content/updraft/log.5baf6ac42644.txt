@@ -1,0 +1,387 @@
+0000.001 (0) Opened log file at time: Wed, 01 May 2024 06:42:31 +0000 on http://localhost/own/irfans_portfolio
+0000.010 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.2 WP: 6.4.2 PHP: 8.2.0 (apache2handler, Windows NT IRFAN-PC 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.31 (max packet size=67108864) WPLANG: en_US Server: Apache/2.4.54 (Win64) PHP/8.2.0 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 7M | 8M) multisite: N openssl: OpenSSL 3.0.7 1 Nov 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.016 (0) Free space on disk containing Updraft's temporary directory: 9948.2 MB
+0000.024 (0) Tasks: Backup files: 1 (schedule: fortnightly) Backup DB:  (schedule: fortnightly)
+0000.030 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.061 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1712639048, seconds_ago=1906703)
+0000.082 (0) Set semaphore last lock (fd) time to 2024-05-01 06:42:31
+0000.089 (0) Semaphore lock (fd) complete
+0000.108 (0) Backup run: resumption=0, nonce=5baf6ac42644, file_nonce=5baf6ac42644 begun at=1714545751 (0s ago), job type=backup
+0000.120 (0) Scheduling a resumption (1) after 300 seconds (1714546051) in case this run gets aborted
+0000.172 (0) Checking if we have a zip executable available
+0000.182 (0) Creation of backups of directories: beginning
+0000.202 (0) Beginning creation of dump of plugins (split every: 25 MB)
+0002.831 (0) Total entities for the zip file: 1351 directories, 6453 files (0 skipped as non-modified), 119.7 MB
+0002.856 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0002.999 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 100 files added (on-disk size: 238.6 KB)
+0003.061 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 200 files added (on-disk size: 238.6 KB)
+0003.120 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 300 files added (on-disk size: 238.6 KB)
+0003.182 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 400 files added (on-disk size: 238.6 KB)
+0003.238 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 500 files added (on-disk size: 238.6 KB)
+0003.292 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 600 files added (on-disk size: 238.6 KB)
+0003.347 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 700 files added (on-disk size: 238.6 KB)
+0003.412 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 800 files added (on-disk size: 238.6 KB)
+0003.484 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 900 files added (on-disk size: 238.6 KB)
+0003.541 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1000 files added (on-disk size: 238.6 KB)
+0003.549 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (13.5 MB, 6453 files batched, 1001 (1002) added so far); re-opening (prior size: 238.6 KB)
+0025.146 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1100 files added (on-disk size: 4469.5 KB)
+0025.204 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1200 files added (on-disk size: 4469.5 KB)
+0025.265 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1300 files added (on-disk size: 4469.5 KB)
+0025.326 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1400 files added (on-disk size: 4469.5 KB)
+0025.391 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1500 files added (on-disk size: 4469.5 KB)
+0025.469 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1600 files added (on-disk size: 4469.5 KB)
+0025.476 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.1 MB, 6453 files batched, 601 (1603) added so far); re-opening (prior size: 4469.5 KB)
+0039.763 (0) A useful amount of data was added after this amount of zip processing: 15.4 s (normalised: 15.3 s, rate: 1676.6 KB/s)
+0039.864 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1700 files added (on-disk size: 10133.3 KB)
+0039.933 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1800 files added (on-disk size: 10133.3 KB)
+0040.001 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 1900 files added (on-disk size: 10133.3 KB)
+0040.069 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2000 files added (on-disk size: 10133.3 KB)
+0040.140 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2100 files added (on-disk size: 10133.3 KB)
+0040.208 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2200 files added (on-disk size: 10133.3 KB)
+0040.279 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2300 files added (on-disk size: 10133.3 KB)
+0040.348 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2400 files added (on-disk size: 10133.3 KB)
+0040.416 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2500 files added (on-disk size: 10133.3 KB)
+0040.504 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2600 files added (on-disk size: 10133.3 KB)
+0040.515 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.3 MB, 6453 files batched, 1001 (2604) added so far); re-opening (prior size: 10133.3 KB)
+0057.732 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2700 files added (on-disk size: 17844.8 KB)
+0057.810 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2800 files added (on-disk size: 17844.8 KB)
+0057.884 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 2900 files added (on-disk size: 17844.8 KB)
+0057.950 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 3000 files added (on-disk size: 17844.8 KB)
+0058.018 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 3100 files added (on-disk size: 17844.8 KB)
+0058.084 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.tmp: 3200 files added (on-disk size: 17844.8 KB)
+0058.111 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (19.6 MB, 624 (3228) files added so far); last ratio: 0.3537; re-opening (prior size: 17844.8 KB)
+0079.250 (0) Zip size is at/near split limit (22.6 MB / 25 MB) - bumping index (from: 0)
+0079.823 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.list-temp.tmp)
+0079.866 (0) Successfully created zip file manifest (size: 256181)
+0079.892 (0) Created plugins zip (0) - 23177.1 KB in 79 s (293.2 KB/s) (checksums: sha1: 77b208f1f21a387408728cf5856bd7a4decc94b1, sha256: f8693a3be1f32dcb94f0b1bfc58bcfe7de77714668e005fb8a1f02cc9824668b)
+0079.918 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0079.922 (0) No remote despatch: user chose no remote backup service
+0079.926 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip
+0079.934 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip.list.tmp)
+0079.939 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0080.020 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3300 files added (on-disk size: 0 KB)
+0080.114 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3400 files added (on-disk size: 0 KB)
+0080.201 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3500 files added (on-disk size: 0 KB)
+0080.324 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3600 files added (on-disk size: 0 KB)
+0080.409 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3700 files added (on-disk size: 0 KB)
+0080.522 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3800 files added (on-disk size: 0 KB)
+0080.634 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 3900 files added (on-disk size: 0 KB)
+0080.725 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4000 files added (on-disk size: 0 KB)
+0080.797 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4100 files added (on-disk size: 0 KB)
+0080.945 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4200 files added (on-disk size: 0 KB)
+0080.992 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.3 MB, 6453 files batched, 1001 (4229) added so far); re-opening (prior size: 0 KB)
+0109.716 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4300 files added (on-disk size: 4395.7 KB)
+0109.782 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4400 files added (on-disk size: 4395.7 KB)
+0109.853 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4500 files added (on-disk size: 4395.7 KB)
+0109.929 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4600 files added (on-disk size: 4395.7 KB)
+0109.999 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4700 files added (on-disk size: 4395.7 KB)
+0110.064 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4800 files added (on-disk size: 4395.7 KB)
+0110.131 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 4900 files added (on-disk size: 4395.7 KB)
+0110.197 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5000 files added (on-disk size: 4395.7 KB)
+0110.257 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5100 files added (on-disk size: 4395.7 KB)
+0110.318 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5200 files added (on-disk size: 4395.7 KB)
+0110.339 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.3 MB, 6453 files batched, 1001 (5230) added so far); re-opening (prior size: 4395.7 KB)
+0128.635 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5300 files added (on-disk size: 10343.4 KB)
+0128.809 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5400 files added (on-disk size: 10343.4 KB)
+0128.950 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5500 files added (on-disk size: 10343.4 KB)
+0129.056 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5600 files added (on-disk size: 10343.4 KB)
+0129.140 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5700 files added (on-disk size: 10343.4 KB)
+0129.226 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5800 files added (on-disk size: 10343.4 KB)
+0129.310 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 5900 files added (on-disk size: 10343.4 KB)
+0129.400 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 6000 files added (on-disk size: 10343.4 KB)
+0129.526 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 6100 files added (on-disk size: 10343.4 KB)
+0129.642 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 6200 files added (on-disk size: 10343.4 KB)
+0129.676 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.8 MB, 6453 files batched, 1001 (6231) added so far); re-opening (prior size: 10343.4 KB)
+0153.708 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 6300 files added (on-disk size: 13952.1 KB)
+0153.770 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.tmp: 6400 files added (on-disk size: 13952.1 KB)
+0158.457 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.list-temp.tmp)
+0158.547 (0) Successfully created zip file manifest (size: 288629)
+0159.681 (0) Created plugins zip (1) - 14195.1 KB in 79.8 s (177.9 KB/s) (sha1: 520eae5ebfe1e4eaf52fd48d9d7e058926c6c1dd, sha256: b164021ba5b050747162baf40edd7f5209ab8fbfd622a380f82c9c150fc03565)
+0159.705 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0159.711 (0) No remote despatch: user chose no remote backup service
+0159.718 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip
+0159.730 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip.list.tmp)
+0159.736 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0159.755 (0) Beginning creation of dump of themes (split every: 25 MB)
+0160.304 (0) Total entities for the zip file: 117 directories, 495 files (0 skipped as non-modified), 14.5 MB
+0160.392 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0160.513 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0160.616 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0160.701 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0171.416 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.list-temp.tmp)
+0171.427 (0) Successfully created zip file manifest (size: 33390)
+0171.582 (0) Created themes zip (0) - 11813.5 KB in 11.8 s (1000.3 KB/s) (sha1: 80712f9186184394092d89c29aec85fefdd71d2b, sha256: f78a9bd9b12a6c3206ff5dee481a6894a4d2ec0ac1177ee704613442e3c74161)
+0171.600 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0171.605 (0) No remote despatch: user chose no remote backup service
+0171.612 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip
+0171.624 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip.list.tmp)
+0171.629 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0171.651 (0) Exclusion option setting (uploads): 
+0171.656 (0) Looking for candidates to backup in: C:\wamp64\www\Own\irfans_portfolio/wp-content/uploads
+0171.660 (0) finding files: 2021: adding to list (1)
+0171.666 (0) finding files: 2023: adding to list (2)
+0171.670 (0) finding files: 2024: adding to list (3)
+0171.676 (0) finding files: crm_perks_uploads: adding to list (4)
+0171.681 (0) finding files: elementor: adding to list (5)
+0171.687 (0) finding files: wpcf7_uploads: adding to list (6)
+0171.691 (0) finding files: wpforms: adding to list (7)
+0171.696 (0) Beginning creation of dump of uploads (split every: 25 MB)
+0171.854 (0) Total entities for the zip file: 33 directories, 329 files (0 skipped as non-modified), 54.7 MB
+0171.935 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0171.971 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.2 MB, 329 files batched, 146 (146) added so far); re-opening (prior size: 0 KB)
+0174.266 (0) A useful amount of data was added after this amount of zip processing: 2.9 s (normalised: 2.7 s, rate: 9380.7 KB/s)
+0174.271 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=2.8559610843658, normalised_time=2.7290178834562, max_time=174.26982617378, data points known=1, max_bytes=26214400)
+0174.281 (0) Zip size is at/near split limit (26.2 MB / 25 MB) - bumping index (from: 0)
+0174.787 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads.zip.list-temp.tmp)
+0174.795 (0) Successfully created zip file manifest (size: 7356)
+0174.807 (0) Created uploads zip (0) - 26816.3 KB in 2.6 s (10385.7 KB/s) (checksums: sha1: 974b4eee72d1a589f73a0bf69963b2bed3fe9920, sha256: 49eec91c548f5cbdd9123def40ae938fd5bb8ad61ffb5826e3d8f588fa1269ee)
+0174.834 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0174.840 (0) No remote despatch: user chose no remote backup service
+0174.847 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads.zip
+0174.862 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads.zip.list.tmp)
+0174.869 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0174.941 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads2.zip.tmp: 200 files added (on-disk size: 0 KB)
+0175.067 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (26.4 MB, 329 files batched, 152 (298) added so far); re-opening (prior size: 0 KB)
+0176.651 (0) A useful amount of data was added after this amount of zip processing: 3.2 s (normalised: 3.1 s, rate: 8344.2 KB/s)
+0176.662 (0) Performance is good - but we will not increase the amount of data we batch, as we are already at the present limit (time=3.2416191101074, normalised_time=3.0679866367256, max_time=176.66003012657, data points known=1, max_bytes=26214400)
+0176.674 (0) Zip size is at/near split limit (26.4 MB / 25 MB) - bumping index (from: 1)
+0177.102 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads2.zip.list-temp.tmp)
+0177.112 (0) Successfully created zip file manifest (size: 7790)
+0177.130 (0) Created uploads zip (1) - 27022.4 KB in 1.9 s (14492.8 KB/s) (checksums: sha1: 079778d1276c93f5a72fdd0a804e9db52da96064, sha256: 69e3707a7797f012529af335519728c1e79437d3414ca1a8db63c2d9a202ae3d)
+0177.168 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0177.173 (0) No remote despatch: user chose no remote backup service
+0177.179 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads2.zip
+0177.190 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads2.zip.list.tmp)
+0177.195 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0177.211 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads3.zip.tmp: 300 files added (on-disk size: 0 KB)
+0177.511 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads3.zip.list-temp.tmp)
+0177.517 (0) Successfully created zip file manifest (size: 1813)
+0177.556 (0) Created uploads zip (2) - 623.3 KB in 0.4 s (1509.6 KB/s) (sha1: 56186b62b874542a2332e1327f5c6a1452916b8e, sha256: bbe7b2e80da336990192b03e1663ac519db5c92fe7e3ab2aa21a26a1ae12f73e)
+0177.576 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0177.582 (0) No remote despatch: user chose no remote backup service
+0177.586 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads3.zip
+0177.597 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads3.zip.list.tmp)
+0177.603 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0177.616 (0) No backup of mu-plugins: excluded by user's options
+0177.625 (0) Beginning backup of other directories found in the content directory (index: 0)
+0177.631 (0) Exclusion option setting (others): 
+0177.636 (0) Looking for candidates to backup in: C:\wamp64\www\Own\irfans_portfolio/wp-content
+0177.642 (0) finding files: fonts: adding to list (1)
+0177.647 (0) finding files: index.php: adding to list (2)
+0177.652 (0) finding files: index.php-old: adding to list (3)
+0177.655 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0177.660 (0) finding files: plugins: skipping: this is the plugins directory
+0177.664 (0) finding files: plugins-old: adding to list (4)
+0177.669 (0) finding files: themes: skipping: this is the themes directory
+0177.674 (0) finding files: themes-old: adding to list (5)
+0177.679 (0) finding files: updraft: skipping: this is the updraft directory
+0177.682 (0) finding files: upgrade: adding to list (6)
+0177.687 (0) finding files: upgrade-temp-backup: adding to list (7)
+0177.691 (0) finding files: uploads: skipping: this is the uploads directory
+0177.696 (0) finding files: uploads-old: adding to list (8)
+0177.814 (0) Total entities for the zip file: 10 directories, 253 files (0 skipped as non-modified), 3.5 MB
+0177.876 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0177.939 (0) Zip: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0180.595 (0) Creating zip file manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip.list-temp.tmp)
+0180.603 (0) Successfully created zip file manifest (size: 16291)
+0180.672 (0) Created others zip (0) - 3528.2 KB in 3 s (1190.7 KB/s) (sha1: 003b0f36ce7260f0b8fc4b6d06f5d9beef637c0f, sha256: c5781aae6575a417e98321fad34266be3d0e4efc87caaaa32d8b3a8381c13a15)
+0180.692 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0180.697 (0) No remote despatch: user chose no remote backup service
+0180.701 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip
+0180.710 (0) Deleting zip manifest (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip.list.tmp)
+0180.718 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0180.744 (0) Saving backup status to database (elements: 11)
+0180.785 (0) Beginning creation of database dump (WordPress DB)
+0180.790 (0) Couldn't get the sql_mode value (N;); will not attempt any adjustment
+0180.944 (0) Table wp_options: Total expected rows (via COUNT): 353
+0180.949 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.000 (0) Table wp_options: Rows added in this batch (next record: 3810): 349 (uncompressed bytes in this segment=802729) in 0.16 seconds
+0181.031 (0) Table wp_options: finishing file(s) (2, 80.5 KB)
+0181.062 (0) Table wp_users: Total expected rows (via COUNT): 1
+0181.067 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.078 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1442) in 0.03 seconds
+0181.099 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0181.134 (0) Table wp_usermeta: Total expected rows (via COUNT): 33
+0181.138 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.152 (0) Table wp_usermeta: Rows added in this batch (next record: 33): 33 (uncompressed bytes in this segment=3337) in 0.04 seconds
+0181.183 (0) Table wp_usermeta: finishing file(s) (2, 1.6 KB)
+0181.208 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 57
+0181.214 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.234 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 2255): 57 (uncompressed bytes in this segment=28021) in 0.04 seconds
+0181.265 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 2.6 KB)
+0181.284 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0181.294 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=622) in 0.02 seconds
+0181.316 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0181.336 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 4
+0181.341 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.354 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=740) in 0.02 seconds
+0181.378 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.4 KB)
+0181.400 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 159
+0181.404 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0181.440 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 2299): 159 (uncompressed bytes in this segment=14790) in 0.05 seconds
+0181.474 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 1.9 KB)
+0181.504 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0181.516 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.03 seconds
+0181.542 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0181.573 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0181.583 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1685) in 0.02 seconds
+0181.606 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0181.638 (0) Table wp_links: Total expected rows (via COUNT): 0
+0181.647 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.02 seconds
+0181.674 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0181.869 (0) Table wp_postmeta: Total expected rows (approximate): 2342
+0182.424 (0) Table wp_postmeta: Rows added in this batch (next record: 4000): 2293 (uncompressed bytes in this segment=10960702) in 0.74 seconds
+0182.657 (0) Table wp_postmeta: finishing file(s) (2, 1282 KB)
+0182.837 (0) Table wp_posts: Total expected rows (via COUNT): 392
+0182.842 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.080 (0) Table wp_posts: Rows added in this batch (next record: 1535): 392 (uncompressed bytes in this segment=4058473) in 0.40 seconds
+0183.344 (0) Table wp_posts: finishing file(s) (2, 147.2 KB)
+0183.363 (0) Table wp_term_relationships: Total expected rows (approximate): 37
+0183.375 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 37 (uncompressed bytes in this segment=1240) in 0.02 seconds
+0183.396 (0) Table wp_term_relationships: finishing file(s) (2, 0.5 KB)
+0183.424 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 11
+0183.427 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.442 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 15): 11 (uncompressed bytes in this segment=1308) in 0.03 seconds
+0183.471 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0183.500 (0) Table wp_termmeta: Total expected rows (via COUNT): 8
+0183.503 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.510 (0) Table wp_termmeta: Rows added in this batch (next record: 12): 8 (uncompressed bytes in this segment=1020) in 0.03 seconds
+0183.534 (0) Table wp_termmeta: finishing file(s) (2, 0.5 KB)
+0183.552 (0) Table wp_terms: Total expected rows (via COUNT): 11
+0183.557 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.563 (0) Table wp_terms: Rows added in this batch (next record: 15): 11 (uncompressed bytes in this segment=1024) in 0.02 seconds
+0183.581 (0) Table wp_terms: finishing file(s) (2, 0.5 KB)
+0183.612 (0) Table wp_aioseo_cache: Total expected rows (via COUNT): 2
+0183.616 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.622 (0) Table wp_aioseo_cache: Rows added in this batch (next record: 7): 2 (uncompressed bytes in this segment=1076) in 0.03 seconds
+0183.646 (0) Table wp_aioseo_cache: finishing file(s) (2, 0.6 KB)
+0183.674 (0) Table wp_aioseo_crawl_cleanup_logs: Total expected rows (via COUNT): 0
+0183.684 (0) Table wp_aioseo_crawl_cleanup_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=875) in 0.02 seconds
+0183.712 (0) Table wp_aioseo_crawl_cleanup_logs: finishing file(s) (2, 0.4 KB)
+0183.742 (0) Table wp_aioseo_notifications: Total expected rows (via COUNT): 5
+0183.747 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.764 (0) Table wp_aioseo_notifications: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=25648) in 0.04 seconds
+0183.797 (0) Table wp_aioseo_notifications: finishing file(s) (2, 16.7 KB)
+0183.834 (0) Table wp_aioseo_posts: Total expected rows (via COUNT): 99
+0183.839 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0183.947 (0) Table wp_aioseo_posts: Rows added in this batch (next record: 115): 99 (uncompressed bytes in this segment=89695) in 0.13 seconds
+0184.001 (0) Table wp_aioseo_posts: finishing file(s) (2, 3.3 KB)
+0184.028 (0) Table wp_e_events: Total expected rows (via COUNT): 4
+0184.033 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.044 (0) Table wp_e_events: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=1358) in 0.03 seconds
+0184.065 (0) Table wp_e_events: finishing file(s) (2, 0.6 KB)
+0184.094 (0) Table wp_vxcf_leads: Total expected rows (via COUNT): 17
+0184.099 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.113 (0) Table wp_vxcf_leads: Rows added in this batch (next record: 17): 17 (uncompressed bytes in this segment=4953) in 0.03 seconds
+0184.136 (0) Table wp_vxcf_leads: finishing file(s) (2, 1 KB)
+0184.177 (0) Table wp_vxcf_leads_detail: Total expected rows (via COUNT): 68
+0184.180 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.195 (0) Table wp_vxcf_leads_detail: Rows added in this batch (next record: 68): 68 (uncompressed bytes in this segment=4930) in 0.04 seconds
+0184.221 (0) Table wp_vxcf_leads_detail: finishing file(s) (2, 1.4 KB)
+0184.245 (0) Table wp_vxcf_leads_notes: Total expected rows (via COUNT): 0
+0184.253 (0) Table wp_vxcf_leads_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=760) in 0.02 seconds
+0184.274 (0) Table wp_vxcf_leads_notes: finishing file(s) (2, 0.4 KB)
+0184.313 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0184.317 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=736) in 0.03 seconds
+0184.343 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0184.375 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0184.385 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.03 seconds
+0184.410 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0184.437 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0184.453 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1958) in 0.03 seconds
+0184.474 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0184.717 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 4
+0184.722 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.733 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 8): 4 (uncompressed bytes in this segment=961) in 0.25 seconds
+0184.757 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0184.776 (0) Table wp_wpmailsmtp_debug_events: Total expected rows (via COUNT): 6
+0184.781 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.789 (0) Table wp_wpmailsmtp_debug_events: Rows added in this batch (next record: 6): 6 (uncompressed bytes in this segment=2872) in 0.02 seconds
+0184.809 (0) Table wp_wpmailsmtp_debug_events: finishing file(s) (2, 0.7 KB)
+0184.839 (0) Table wp_wpmailsmtp_tasks_meta: Total expected rows (via COUNT): 1
+0184.843 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0184.851 (0) Table wp_wpmailsmtp_tasks_meta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=762) in 0.03 seconds
+0184.875 (0) Table wp_wpmailsmtp_tasks_meta: finishing file(s) (2, 0.4 KB)
+0184.880 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\wamp64\www\Own\irfans_portfolio/wp-content/updraft/backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db.gz (line 1925, C:\wamp64\www\Own\irfans_portfolio\wp-content\plugins\updraftplus\backup.php)
+0184.886 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_options.table.tmpr3811.gz (1/30/fopen): adding to final database dump
+0184.900 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_options.table.gz (2/30/fopen): adding to final database dump
+0184.904 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_users.table.tmpr2.gz (3/30/fopen): adding to final database dump
+0184.909 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_users.table.gz (4/30/fopen): adding to final database dump
+0184.915 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_usermeta.table.tmpr34.gz (5/30/fopen): adding to final database dump
+0184.919 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_usermeta.table.gz (6/30/fopen): adding to final database dump
+0184.924 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_actions.table.tmpr2256.gz (7/30/fopen): adding to final database dump
+0184.928 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_actions.table.gz (8/30/fopen): adding to final database dump
+0184.933 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/30/fopen): adding to final database dump
+0184.936 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_claims.table.gz (10/30/fopen): adding to final database dump
+0184.941 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_groups.table.tmpr5.gz (11/30/fopen): adding to final database dump
+0184.944 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_groups.table.gz (12/30/fopen): adding to final database dump
+0184.950 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_logs.table.tmpr2300.gz (13/30/fopen): adding to final database dump
+0184.954 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_actionscheduler_logs.table.gz (14/30/fopen): adding to final database dump
+0184.960 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_commentmeta.table.tmpr0.gz (15/30/fopen): adding to final database dump
+0184.965 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_commentmeta.table.gz (16/30/fopen): adding to final database dump
+0184.971 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_comments.table.tmpr0.gz (17/30/fopen): adding to final database dump
+0184.976 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_comments.table.gz (18/30/fopen): adding to final database dump
+0184.980 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_links.table.tmpr0.gz (19/30/fopen): adding to final database dump
+0184.984 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_links.table.gz (20/30/fopen): adding to final database dump
+0184.989 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_postmeta.table.tmpr4001.gz (21/30/fopen): adding to final database dump
+0185.077 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_postmeta.table.gz (22/30/fopen): adding to final database dump
+0185.082 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_posts.table.tmpr1536.gz (23/30/fopen): adding to final database dump
+0185.096 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_posts.table.gz (24/30/fopen): adding to final database dump
+0185.101 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_term_relationships.table.tmpr100001.gz (25/30/fopen): adding to final database dump
+0185.107 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_term_relationships.table.gz (26/30/fopen): adding to final database dump
+0185.113 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_term_taxonomy.table.tmpr16.gz (27/30/fopen): adding to final database dump
+0185.119 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_term_taxonomy.table.gz (28/30/fopen): adding to final database dump
+0185.124 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_termmeta.table.tmpr13.gz (29/30/fopen): adding to final database dump
+0185.130 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_termmeta.table.gz (30/30/fopen): adding to final database dump
+0185.135 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_terms.table.tmpr16.gz (31/30/fopen): adding to final database dump
+0185.140 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_terms.table.gz (32/30/fopen): adding to final database dump
+0185.145 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_cache.table.tmpr8.gz (33/30/fopen): adding to final database dump
+0185.150 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_cache.table.gz (34/30/fopen): adding to final database dump
+0185.155 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_crawl_cleanup_logs.table.tmpr0.gz (35/30/fopen): adding to final database dump
+0185.160 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_crawl_cleanup_logs.table.gz (36/30/fopen): adding to final database dump
+0185.164 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_notifications.table.tmpr6.gz (37/30/fopen): adding to final database dump
+0185.169 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_notifications.table.gz (38/30/fopen): adding to final database dump
+0185.178 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_posts.table.tmpr116.gz (39/30/fopen): adding to final database dump
+0185.183 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_aioseo_posts.table.gz (40/30/fopen): adding to final database dump
+0185.187 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_e_events.table.tmpr5.gz (41/30/fopen): adding to final database dump
+0185.193 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_e_events.table.gz (42/30/fopen): adding to final database dump
+0185.197 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads.table.tmpr18.gz (43/30/fopen): adding to final database dump
+0185.206 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads.table.gz (44/30/fopen): adding to final database dump
+0185.212 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads_detail.table.tmpr69.gz (45/30/fopen): adding to final database dump
+0185.220 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads_detail.table.gz (46/30/fopen): adding to final database dump
+0185.227 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads_notes.table.tmpr0.gz (47/30/fopen): adding to final database dump
+0185.232 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_vxcf_leads_notes.table.gz (48/30/fopen): adding to final database dump
+0185.239 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_logs.table.tmpr0.gz (49/30/fopen): adding to final database dump
+0185.245 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_logs.table.gz (50/30/fopen): adding to final database dump
+0185.250 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (51/30/fopen): adding to final database dump
+0185.256 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_payment_meta.table.gz (52/30/fopen): adding to final database dump
+0185.263 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_payments.table.tmpr0.gz (53/30/fopen): adding to final database dump
+0185.267 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_payments.table.gz (54/30/fopen): adding to final database dump
+0185.276 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_tasks_meta.table.tmpr9.gz (55/30/fopen): adding to final database dump
+0185.280 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpforms_tasks_meta.table.gz (56/30/fopen): adding to final database dump
+0185.286 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpmailsmtp_debug_events.table.tmpr7.gz (57/30/fopen): adding to final database dump
+0185.293 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpmailsmtp_debug_events.table.gz (58/30/fopen): adding to final database dump
+0185.297 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpmailsmtp_tasks_meta.table.tmpr2.gz (59/30/fopen): adding to final database dump
+0185.301 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db-table-wp_wpmailsmtp_tasks_meta.table.gz (60/30/fopen): adding to final database dump
+0185.340 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db.gz: finished writing out complete database file (1548 KB)
+0185.398 (0) Total database tables backed up: 30 (backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db.gz, size: 1585321, sha1: 43f4f955028b2e4acd231b3b17e942c3b2ff33e0, sha256: df999cac1990e8cbe354760c60fffe1804c639825bf025e66fa5aeadb3a485d9)
+0185.495 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins.zip: plugins: This file has already been successfully uploaded
+0185.499 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-plugins2.zip: plugins: This file has already been successfully uploaded
+0185.503 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-themes.zip: themes: This file has already been successfully uploaded
+0185.508 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads.zip: uploads: This file has already been successfully uploaded
+0185.512 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads2.zip: uploads: This file has already been successfully uploaded
+0185.518 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-uploads3.zip: uploads: This file has already been successfully uploaded
+0185.522 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-others.zip: others: This file has already been successfully uploaded
+0185.527 (0) backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db.gz: db: This file has not yet been successfully uploaded: will queue
+0185.530 (0) Saving backup history. Total backup size: 106.2 MB
+0185.563 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0185.578 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0185.581 (0) No remote despatch: user chose no remote backup service
+0185.585 (0) Recording as successfully uploaded: backup_2024-05-01-1142_Muhammad_Irfan_5baf6ac42644-db.gz
+0185.594 (0) Prune old backups from local store: nothing to do, since the user disabled local deletion and we are using local backups
+0185.598 (0) Resume backup (5baf6ac42644, 0): finish run
+0185.610 (0) Decremented the semaphore (fd) by 1
+0185.616 (0) Semaphore (fd) unlocked
+0185.621 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0185.633 (0) No email will/can be sent - the user has not configured an email address.
+0185.638 (0) The backup succeeded and is now complete
